@@ -1,0 +1,3 @@
+﻿  reverseCstyle.cpp
+F:\ItAcademy\Module6\lesson6\reverseCstyle\reverseCstyle\reverseCstyle.cpp(13,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  reverseCstyle.vcxproj -> F:\ItAcademy\Module6\lesson6\reverseCstyle\x64\Debug\reverseCstyle.exe

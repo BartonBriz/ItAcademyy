@@ -1,0 +1,5 @@
+﻿  randVector.cpp
+F:\ItAcademy\Module6\lesson6\randVector\randVector\randVector.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tools.cpp
+  Создание кода...
+  randVector.vcxproj -> F:\ItAcademy\Module6\lesson6\randVector\x64\Debug\randVector.exe
